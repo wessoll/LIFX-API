@@ -9,3 +9,7 @@ Offers the following functionalities:
 
 This library works with the LIFX Cloud. Please note that there are other libraries allowing for way more functionalities.
   
+# Usage
+import lifx
+
+lifx().toggleIntelligent()
